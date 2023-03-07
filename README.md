@@ -25,9 +25,9 @@ During the exploration, we gain some remarkable insights into the data and proce
 - Most of the variables are uncorrelated (except for newly added features and original features that these new features are extracted from)
 
 ![image](https://user-images.githubusercontent.com/85484281/223413913-01b17d09-d610-4626-a066-13e4366c7fb5.png)
-- After encoding categorical data and rescaling values to avoid the dominance of large-value features, we measure the feature importance by impurity reduction via default random forest model. Location info and room type info seems to have high predicting power. Using such insight, we proceed with the modeling phase.
+- After encoding categorical data and rescaling values to avoid the dominance of large-value features, we measure the feature importance by impurity reduction via default random forest model. Location info and room type info seem to have high predicting power. Using such insight, we proceed with the modeling phase.
 
-For this classification problem, we used the following models:
+For this regression problem, we use the following models:
 - Decision tree: a supervised learning algorithm used in machine learning for classification and regression analysis. It creates a tree-like structure where each internal node represents a feature or attribute, each branch represents a decision rule, and each leaf node represents a class label or a numerical value. Decision trees work by recursively splitting the data into smaller subsets based on the most informative features until a stopping criterion is met, such as reaching a maximum depth or minimum number of samples per leaf. They are popular for their interpretability and ability to handle categorical and numerical data, but they can be prone to overfitting and instability.
 - Random forest
 
