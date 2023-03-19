@@ -20,9 +20,11 @@ To run the code for this sub-project, please make sure that you have installed t
 - catboost
 ### Usage
 To run the code, please follow the steps below:
-- Download the dataset [here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
-- Open the Jupyter Notebook file Airbnb_Price_Prediction.ipynb.
+- Download the kaggle.json file.
+- Open the Jupyter Notebook file Airbnb_Price_Prediction.ipynb and load the dataset directly from Kaggle.
 - Run each cell in the notebook.
+*Note - You can also download the dataset from [here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) and upload it in the notebook.
+
 ### Results
 The results show that CatBoost model (Scenario 3 - predicting on log price and using all data and features) performs the best with an R-squared value of 0.609483, an RMSE of 0.439591 and an MAE of 0.307836.
 ## Sub-Project 2: Implementing a Decision Tree from Scratch in Python
