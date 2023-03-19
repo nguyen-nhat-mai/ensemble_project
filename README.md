@@ -21,7 +21,7 @@ To run the code for this sub-project, please make sure that you have installed t
 ### Usage
 To run the code, please follow the steps below:
 - Download the dataset [here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
-- Open the Jupyter Notebook file Predicting_Airbnb_Prices_in_NYC.ipynb.
+- Open the Jupyter Notebook file Airbnb_Price_Prediction.ipynb.
 - Run each cell in the notebook.
 ### Results
 The results show that xxx model performs the best with an R-squared value of xx, an RMSE of xx and an MAE of xx.
@@ -42,7 +42,7 @@ To run the code for this sub-project, please make sure that you have installed t
 - sklearn
 ### Usage
 To run the code, please follow the steps below:
-- Open the Jupyter Notebook file Decision_Tree_from_Scratch.ipynb.
+- Open the Jupyter Notebook file Decision_tree_classifier_regressor.ipynb.
 - Run each cell in the notebook.
 ### Results
 The results show that the decision tree performs well for both classification and regression tasks. For the classification dataset, the decision tree achieves an accuracy of 0.916, while for the regression dataset, the decision tree achieves an R-squared value of 0.83.
