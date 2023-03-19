@@ -23,6 +23,7 @@ To run the code, please follow the steps below:
 - Download the kaggle.json file.
 - Open the Jupyter Notebook file Airbnb_Price_Prediction.ipynb and load the dataset directly from Kaggle.
 - Run each cell in the notebook.
+
 *Note - You can also download the dataset from [here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) and upload it in the notebook.
 
 ### Results
