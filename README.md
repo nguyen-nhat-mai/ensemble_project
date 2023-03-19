@@ -24,7 +24,7 @@ To run the code, please follow the steps below:
 - Open the Jupyter Notebook file Airbnb_Price_Prediction.ipynb.
 - Run each cell in the notebook.
 ### Results
-The results show that xxx model performs the best with an R-squared value of xx, an RMSE of xx and an MAE of xx.
+The results show that CatBoost model (Scenario 3 - predicting on log price and using all data and features) performs the best with an R-squared value of 0.609483, an RMSE of 0.439591 and an MAE of 0.307836.
 ## Sub-Project 2: Implementing a Decision Tree from Scratch in Python
 ### Overview
 For the second sub-project, we will implement a Decision Tree from scratch on Python, which will be able to handle both regression and classification tasks. We will use two datasets for this purpose, one for regression and the other for classification.
