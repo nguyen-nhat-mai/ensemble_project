@@ -4,7 +4,7 @@ This project includes 2 subprojects:
 2. Implement a decision tree from scratch in Python, which allows us to deal with both regression and classification tasks.
 ## Sub-Project 1: Predicting Airbnb Prices in New York City
 ### Overview
-The first sub-project aims to predict Airbnb prices in New York City using ensemble machine learning techniques such as Random Forest, XGBoost, CatBoost, Overview, Bagging, and Gradient Boosting. The dataset will be preprocessed, and exploratory data analysis (EDA) will be performed, along with feature engineering. The performance of each model will be evaluated using evaluation metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared.
+The first sub-project aims to predict Airbnb prices in New York City using ensemble machine learning techniques such as Random Forest, XGBoost, CatBoost, Adaboost, Bagging, and Gradient Boosting. The dataset will be preprocessed, and exploratory data analysis (EDA) will be performed, along with feature engineering. The performance of each model will be evaluated using evaluation metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared.
 ### Installation
 To run the code for this sub-project, please make sure that you have installed the following libraries:
 - pandas
